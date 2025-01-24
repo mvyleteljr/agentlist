@@ -1,5 +1,5 @@
 # agentlist
-knowledge repo for ai frameworks
+knowledge repo for ai frameworks... updating often
 
 - https://www.arc.fun/
 - @Kudai_IO
