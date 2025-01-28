@@ -9,3 +9,4 @@ knowledge repo for ai frameworks... updating often
 - pippin: https://github.com/pippinlovesyou/pippin
 
 - https://x.com/divine_economy/status/1883901214833967396
+- https://x.com/AskVenice/status/1883928612317061191
