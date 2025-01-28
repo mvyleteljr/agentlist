@@ -7,3 +7,5 @@ knowledge repo for ai frameworks... updating often
 - eliza: https://elizaos.github.io/eliza/docs/core/agents/
 
 - pippin: https://github.com/pippinlovesyou/pippin
+
+- https://x.com/divine_economy/status/1883901214833967396
