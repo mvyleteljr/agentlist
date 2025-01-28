@@ -10,3 +10,4 @@ knowledge repo for ai frameworks... updating often
 
 - https://x.com/divine_economy/status/1883901214833967396
 - https://x.com/AskVenice/status/1883928612317061191
+- https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/
