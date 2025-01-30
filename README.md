@@ -13,3 +13,4 @@ knowledge repo for ai frameworks... updating often
 - https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/
 - https://github.com/elizaOS/eliza/tree/develop/packages/plugin-zerion
 - https://github.com/elizaOS/eliza/tree/develop/packages/plugin-zerion
+- https://github.com/elizaOS/eliza/tree/develop/packages/plugin-zerion
